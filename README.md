@@ -15,6 +15,7 @@ I haven't added reminder system .
 
 ## How To Run ...🏃...
 - Download and Unzip The File
+- Open with vs code in the directory containing Both Frontend and Backend Files
 - Run the below code in both the directory (Frontend and Backend)
 - Run both servers (Frontend and Backend) 
 
@@ -37,8 +38,6 @@ I haven't added reminder system .
       cd backend
       npm start      
 ```
-
-
 <pre>
        /ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ\
       |           See You Soon .. 🤝            |
