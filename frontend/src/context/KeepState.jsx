@@ -6,7 +6,7 @@ import {
 import toast from "react-hot-toast"
 
 const KeepState = (props) => {
-  const host = "https://znoy-notes.herokuapp.com"
+  const host = "http://localhost:5000"
   const [cond, setCond] = useState(false)
   const [userImage, setuserImage] = useState("")
   const [archived, setArchived] = useState([])
