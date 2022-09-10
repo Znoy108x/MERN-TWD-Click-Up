@@ -1,6 +1,6 @@
-# Hello, I am <a href="https://www.linkedin.com/in/abhay-bisht-042662177/">Abhay Bisht </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> , I made this project DS-SL-ExportImport-EDA
+# Hello, I am <a href="https://www.linkedin.com/in/abhay-bisht-042662177/">Abhay Bisht </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> , I made this project Click-Up
 
-<a href="https://www.kaggle.com/datasets/unitednations/global-commodity-trade-statistics">Deployed Link</a>
+<a href="https://znoy-notes.netlify.app/">Deployed Link</a>
 
 ## Usage 🏢
 Keep track of your notes .. 
