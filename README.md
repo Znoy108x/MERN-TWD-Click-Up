@@ -31,7 +31,7 @@ I haven't added reminder system .
 ```
 ## Code For Running Server 📦
 ```js
-      #Install Me
+      #Run Me
       cd frontend 
       npm start 
       
